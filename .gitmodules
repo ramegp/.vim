@@ -21,4 +21,8 @@
 	url = https://github.com/honza/vim-snippets
 [submodule "bundle/ale"]
 	path = bundle/ale
-	url = https://github.com/w0rp/ale
+    url = https://github.com/w0rp/ale
+
+[submodule "bundle/vim-fugitive"]
+    path = bundle/vim-fugitive
+    url = https://gihub.com/tpope/vim-fugitive
