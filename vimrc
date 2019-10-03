@@ -14,7 +14,7 @@ Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'w0rp/ale'
-
+Plugin 'tpope/vim-fugitive'
 " Colorscheme
 Plugin 'morhetz/gruvbox'
 
