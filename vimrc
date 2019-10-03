@@ -97,7 +97,9 @@ nnoremap <space> za
 
 " UI Config
 set number	            " show line numbers
-set relativenumber      " Show line number on the current line and relative numbers on the rest
+
+"set relativenumber      " Show line number on the current line and relative numbers on the rest
+"
 set cursorline          " highlight current line
 set showcmd             " show command in bottom bar
 set wildmenu            " visual autocomplete for command menu

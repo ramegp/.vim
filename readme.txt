@@ -1,2 +1,0 @@
-Instalar los plugins
-:PluginInstall
